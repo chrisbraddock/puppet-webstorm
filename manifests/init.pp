@@ -1,5 +1,5 @@
 class webstorm (
-  $version = '9.0-RC',
+  $version = '9.0',
   #$server = 'download.jetbrains.com'
   #$server = 'download-cf.jetbrains.com'
   $server = 'download-ln.jetbrains.com'
